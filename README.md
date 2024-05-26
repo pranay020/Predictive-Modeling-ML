@@ -48,6 +48,7 @@ a. Save the predictions on test.csv file in a new csv file.
 b. Open the generated csv file, copy the predictions and paste them in the 
 subscribed column of solution_checker.xlsx file. 
 c. Your score will be generated automatically and will be shown in 
+
 ***Your Accuracy Score*** column 
 
 
