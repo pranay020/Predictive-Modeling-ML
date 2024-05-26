@@ -26,14 +26,14 @@ the client will subscribe to term deposit.
 
 - pandas 
 - numpy                      
-- seaborn as sns                 
+- seaborn                 
 - matplotlib 
 - seaborn
 - sklearn
 
 ## Data Dictionary
 
-Here is the discription of all the variables:
+- Here is the discription of all the variables:
 
 
 ![image](https://github.com/pranay020/Predictive-Modeling-ML/assets/140306607/9d8497d0-408c-4b3b-85a6-6be93baf3b2d)
@@ -44,10 +44,10 @@ The Evaluation metric for this competition is accuracy.
 
 ### Solution Checker 
 
-You can use solution_checker.xlsx to generate score (accuracy) of your 
+- You can use solution_checker.xlsx to generate score (accuracy) of your 
 predictions.  
 
-This is an excel sheet where you are provided with the test IDs and you 
+- This is an excel sheet where you are provided with the test IDs and you 
 have to submit your predictions in the “subscribed” column. Below are the 
 steps to submit your predictions and generate score: 
 
@@ -56,7 +56,7 @@ b. Open the generated csv file, copy the predictions and paste them in the
 subscribed column of solution_checker.xlsx file. 
 c. Your score will be generated automatically and will be shown in 
 
-***Your Accuracy Score***    column 
+**Your Accuracy Score**    column 
 
 
 
