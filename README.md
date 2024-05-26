@@ -32,7 +32,7 @@ Here is the discription of all the variables:
 ![image](https://github.com/pranay020/Predictive-Modeling-ML/assets/140306607/9d8497d0-408c-4b3b-85a6-6be93baf3b2d)
 ![image](https://github.com/pranay020/Predictive-Modeling-ML/assets/140306607/39635c52-1b6b-468a-a57d-e132927715a6)
 
-#Evaluation Metric
+# Evaluation Metric
 The Evaluation metric for this competition is accuracy.
 Solution Checker 
 You can use solution_checker.xlsx to generate score (accuracy) of your 
