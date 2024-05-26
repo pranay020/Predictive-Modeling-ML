@@ -24,6 +24,13 @@ the client will subscribe to term deposit.
 
 ## Libraries Used
 
+pandas 
+numpy                      
+seaborn as sns                 
+matplotlib 
+seaborn
+sklearn
+
 ## Data Dictionary
 
 Here is the discription of all the variables:
