@@ -24,31 +24,13 @@ the client will subscribe to term deposit.
 
 #Libraries Used
 
-Here is the description of all the variables : 
-Variable 
-Definition 
-ID 
-Unique client ID 
-age 
-Age of the client 
-job 
-Type of job 
-marital 
-Marital status of the client 
-education 
-Education level 
-default Credit in default. 
-housing Housing loan  
-loan Personal loan 
-contact Type of communication 
-month Contact month 
-day_of_week Day of week of contact 
-duration Contact duration 
-campaign number of contacts performed during this 
-campaign to the client 
-pdays number of days that passed by after the client 
-was last contacted 
-previous number of contacts performed before this 
-campaign 
-poutcome outcome of the previous marketing campaign 
-Subscribed (target) has the client subscribed a term deposit?
+#Data Dictionary
+
+Here is the discription of all the variables:
+
+
+![image](https://github.com/pranay020/Predictive-Modeling-ML/assets/140306607/9d8497d0-408c-4b3b-85a6-6be93baf3b2d)
+
+
+
+
