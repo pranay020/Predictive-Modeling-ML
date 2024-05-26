@@ -34,6 +34,7 @@ Here is the discription of all the variables:
 
 # Evaluation Metric
 The Evaluation metric for this competition is accuracy.
+
 Solution Checker 
 You can use solution_checker.xlsx to generate score (accuracy) of your 
 predictions.  
