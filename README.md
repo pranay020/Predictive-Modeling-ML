@@ -36,11 +36,14 @@ Here is the discription of all the variables:
 The Evaluation metric for this competition is accuracy.
 
 Solution Checker 
+
 You can use solution_checker.xlsx to generate score (accuracy) of your 
 predictions.  
+
 This is an excel sheet where you are provided with the test IDs and you 
 have to submit your predictions in the “subscribed” column. Below are the 
 steps to submit your predictions and generate score: 
+
 a. Save the predictions on test.csv file in a new csv file.  
 b. Open the generated csv file, copy the predictions and paste them in the 
 subscribed column of solution_checker.xlsx file. 
